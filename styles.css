@@ -1,0 +1,172 @@
+.Contenedor{
+    background: white;
+    width: 1000px;
+    height: max-content;
+   
+    display: flex;
+    padding-bottom: 20px;
+   
+       
+}
+.Left_section{
+    width:400px ;
+   
+    background: rgb(60, 34, 90);
+    margin-left: 25%;
+   
+}
+.right_section{
+  margin-right: 25%;
+  border-right: solid black 2px;
+  border-bottom: solid black 2px;
+  padding-bottom: 20px;
+  width: max-content;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+  }
+ 
+  .container_img {
+    max-width: 250px;
+    height: auto;
+  }
+  .container_aptitudes{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .titles{
+    max-width: 250px;
+   
+    color: white;
+    font-size: 18px;
+    font-family : 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-left: 50px;
+  }
+  .Aptitudes_list{
+    font-size: 20px;
+    color: white;
+    text-align: left
+   
+  }
+  .profesional_content{
+    width: 250px;
+    font-size: 20px;
+    color: white;
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+  }
+  .contenedorgenerico{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.contenedorTitulo{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 250px;
+    height: auto;
+}
+ 
+  p {
+    text-align: justify;
+}
+.bordesleftsection{
+    width: 400px;
+    border-bottom: solid 2px;
+    border-color: black;
+}
+.name{
+  font-size: 30px;
+  padding-left: 50px;
+   
+}
+.contenedorTitulos{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  height: auto;
+}
+.contenedor_datosgenerales{
+  text-align: center;
+  display: flex;
+ 
+  max-width: 500px;
+  height: auto;
+ 
+}
+.contenedor_logo{
+  padding-left: 50px;
+}
+.logo{
+ 
+  width: 25px;
+  height:25px;
+}
+.linkedin{
+  padding-left: 47px;
+  padding-bottom: 20px;
+}
+.contenido{
+  padding-left: 10px;
+}
+.datosGenerales{
+  padding-top: -50px;
+}
+.bordesrightsection{
+  width: 1000px;
+    border-bottom: solid 1px;
+    border-color: black;
+    padding-top: 10px;
+}
+.titles_rightsection{
+  max-width: 250px;
+   
+  color: black;
+  font-size: 18px;
+  font-family : 'Times New Roman', Times, serif;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+.contenido_formacion{
+  padding-top: 5px;
+  padding-left: 50px;
+}
+.fecha_formacion{
+  padding-top: 20px;
+  padding-left: 50px;
+}
+progress {
+  width: 100%;
+  height: 20px;
+}
+progress::-webkit-progress-bar {
+  background-color: #eee;
+  border-radius: 20px;
+}
+progress::-webkit-progress-value {
+  background-color: black;
+  border-radius: 15px;
+}
+.contenedoridiomas{
+  display: flex;
+  padding-top: 20px;
+}
+.nivelIngles{
+  margin-left: 180px;
+}
+.Idioma{
+  padding-right: 20px;
+}
